@@ -1,0 +1,1 @@
+o	Developed a basic RAG LLM system to query from pdf’s containing product data of my hypothetical company Sean Inc. Utilized Llama index for indexing and Open AI LLM models for the question answering usecase.
